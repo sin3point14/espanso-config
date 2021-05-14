@@ -97,6 +97,6 @@ matches:
   - trigger: ":strip"
     replace: "https://i.imgur.com/jVFUI34.jpg"
   - trigger: ":nanacry"
-    replace: "https://cdn.discordapp.com/attachments/724896557723549786/842753828268146698/817422322158796811.png"
+    replace: "https://i.imgur.com/nTbBSXm.png"
   - trigger: ":nanahappy"
-    replace: "https://cdn.discordapp.com/attachments/724896557723549786/842753487230206042/819790245578932234.png"
+    replace: "https://i.imgur.com/MNGV3sN.png"
