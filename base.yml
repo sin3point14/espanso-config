@@ -30,7 +30,13 @@ matches:
         type: shell
         params:
           cmd: "echo Hello from your shell"
-  
+
+  - trigger: ":clip"
+    replace: "{{clipb}}"
+    vars:
+      - name: "clipb"
+        type: "clipboard"
+
   - trigger: ":lenny"
     replace: "( ͡° ͜ʖ ͡°)"
 
